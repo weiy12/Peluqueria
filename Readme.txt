@@ -1,4 +1,4 @@
-El producto puedes instalar Xampp 
+El producto necesita una amiente para ejecutar php y un base de datos de MySQL
 Descomprimir en la ruta xampp\htdocs
 Entra a MySQL importar fichero peluquería.sql .
 Entra  un navegador lo metes 
